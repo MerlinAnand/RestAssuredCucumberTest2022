@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="3.273147">
+<testcase classname="Sport API Scenarios" name="Validate the circuit details for 2017" time="3.273147">
+<system-out><![CDATA[Given I hit f1 for the "2017"...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

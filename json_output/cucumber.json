@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Validate the circuit details for 2017",
+        "description": "",
+        "id": "sport-api-scenarios;validate-the-circuit-details-for-2017",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3273146500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I hit f1 for the \"2017\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2017",
+                  "offset": 18
+                }
+              ],
+              "location": "ErgastStepDefinition.getCiruit(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Sport API Scenarios",
+    "description": "",
+    "id": "sport-api-scenarios",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/aupost/features/sports.feature"
+  }
+]
